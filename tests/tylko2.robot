@@ -14,7 +14,7 @@ Adding item to a cart as logged user
     [Tags]  smoke
     tylko-actions.Log in as User1     dub.is.rising@gmail.com     Password12345
 
-
+# to be continued / work in progress
 
 
 
